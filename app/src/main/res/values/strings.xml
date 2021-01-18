@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">First task</string>
+    <string name="button_one">Button1</string>
+    <string name="button_two">Button2</string>
+    <string name="button_three">Button3</string>
+</resources>
